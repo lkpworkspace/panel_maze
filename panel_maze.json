@@ -1,0 +1,9 @@
+{
+    "_lib":"libpanel_maze.so",
+    "_instance": [
+        {
+            "name":"panel_maze",
+            "type":"panel_maze"
+        }
+    ]
+}
